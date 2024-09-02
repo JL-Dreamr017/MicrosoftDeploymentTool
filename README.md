@@ -8,3 +8,7 @@
  </ul>
 
 </p>
+
+<p>In my IT homelab, I used Microsoft Deployment Toolkit to replicate from the UVU Windows Server course with Cengage.
+
+</p>
