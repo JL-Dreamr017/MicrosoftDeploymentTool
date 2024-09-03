@@ -5,6 +5,7 @@
    <li>adksetup</li>
    <li>adkwinpesetup</li>
    <li>Microsoft Deployment Toolkit</li>
+  <li>Microosft Deployment Service (from Windows Server 2022)</li>
  </ul>
 
 </p>
