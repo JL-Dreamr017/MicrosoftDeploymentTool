@@ -24,7 +24,6 @@ Here is screenshot I took. Firstly, I downloaded adksetup, adkwinpesetup, and Mi
 
 
 
-![Screenshot from 2024-09-01 13-53-12](https://github.com/user-attachments/assets/8ef18272-6670-4eec-91a4-dbdc4fc488b1)
 
 
 ![Screenshot from 2024-09-01 14-03-22](https://github.com/user-attachments/assets/56c50d01-8008-4720-bdff-b0c888b7800b)
@@ -40,6 +39,7 @@ Here is screenshot I took. Firstly, I downloaded adksetup, adkwinpesetup, and Mi
 
 ![Screenshot from 2024-09-01 22-42-27](https://github.com/user-attachments/assets/142420f6-5c2a-482f-a44e-535c5e1256c2)
 
+![Screenshot from 2024-09-01 13-53-12](https://github.com/user-attachments/assets/8ef18272-6670-4eec-91a4-dbdc4fc488b1)
 
 ![Screenshot from 2024-09-01 23-12-32](https://github.com/user-attachments/assets/de243247-afc0-4b03-8121-8ff35ec50fc9)
 
