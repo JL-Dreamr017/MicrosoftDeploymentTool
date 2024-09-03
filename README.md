@@ -19,9 +19,6 @@ In my IT homelab, I actually did a IT class in-person project when I was at Utah
 
 
 
-![Screenshot from 2024-09-01 23-12-32](https://github.com/user-attachments/assets/940220ae-a6b5-4ff4-8b10-8fe179c98bcc)
-
-
 ![Screenshot from 2024-09-01 13-53-12](https://github.com/user-attachments/assets/8ef18272-6670-4eec-91a4-dbdc4fc488b1)
 
 
