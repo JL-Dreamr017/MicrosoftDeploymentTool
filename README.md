@@ -24,8 +24,12 @@ Here is screenshot I took. Firstly, I downloaded adksetup, adkwinpesetup, and Mi
 ![Screenshot from 2024-09-01 14-03-00](https://github.com/user-attachments/assets/7f9d8b94-e181-4d48-b219-5397b2f31acc)
 
 
+<h2>Uploading application to deploy along with Windows</h2>
 
-
+<p>
+ I clicked on the application folder and added 7-zip and Firefox. After filling out name of the application, domain name, and other context.
+ 
+</p>
 
 ![Screenshot from 2024-09-01 14-03-22](https://github.com/user-attachments/assets/56c50d01-8008-4720-bdff-b0c888b7800b)
 
